@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBER-SALAMA&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBER&layout=compact&theme=radical" alt="Top Languages" />
 </div>
