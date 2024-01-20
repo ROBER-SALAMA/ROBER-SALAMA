@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ROBER-SALAMA&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBER-SALAMA&layout=compact&theme=radical" alt="Top Languages" />
 </div>
